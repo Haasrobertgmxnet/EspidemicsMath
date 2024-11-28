@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SEIR_py", "SEIR_py\SEIR_py.pyproj", "{65B511D2-42CA-4BB3-B356-3AB75CD24FA9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SIR_py", "SIR_py\SIR_py.pyproj", "{5CED4F11-AF11-420F-8D07-F243AD6FAD8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65B511D2-42CA-4BB3-B356-3AB75CD24FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B511D2-42CA-4BB3-B356-3AB75CD24FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CED4F11-AF11-420F-8D07-F243AD6FAD8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CED4F11-AF11-420F-8D07-F243AD6FAD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E43A1AA3-5E8C-452B-8950-0F2D59C5D40E}
+	EndGlobalSection
+EndGlobal
